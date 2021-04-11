@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## If you want to see some highlights of my production so far, check:
+### If you want to see some highlights of my production so far, check:
 - [Clock-UI-Design](https://github.com/EmersonCob/Clock-UI-Design)
 - [Netflix_Clone](https://github.com/EmersonCob/Netflix_Clone)
 - [Pagina_inicial_do_Instagram](https://github.com/EmersonCob/Pagina_inicial_do_Instagram)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [Jogo_da_Velha](https://github.com/EmersonCob/Jogo_da_Velha)
 
 
-## Skills:
+### Skills:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
