@@ -1,5 +1,11 @@
 ### Hi, I'm José Emérson 👋
 
+<div>
+  <a href="https://github.com/EmersonCob">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonCob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+
+  
 <a target="_blank" href="https://www.linkedin.com/in/joseemersoncosta/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
